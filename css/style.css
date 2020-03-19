@@ -7,3 +7,14 @@
 .carousel-item:first-child img { 
   object-position: 50% 97%;
 }
+
+.carousel-caption {
+  background-color: rgba(0,0,0,0.6);
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
