@@ -1,0 +1,9 @@
+.img-carousel {
+  object-fit: cover;
+  object-position: 50% 27%;
+  height: 600px;
+}
+
+.carousel-item:first-child img { 
+  object-position: 50% 97%;
+}
