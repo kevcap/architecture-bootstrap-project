@@ -1,3 +1,14 @@
+html,
+body {
+  height: 100%;
+}
+header {
+
+}
+main {
+  background-color: #fafafa
+}
+
 .img-carousel {
   object-fit: cover;
   object-position: 50% 27%;
@@ -17,4 +28,47 @@
   position: absolute;
   left: 50%;
   transform: translate(-50%);
+}
+
+.card {
+  width: 100%;
+  padding: 10px;
+}
+.card-img-top {
+  height: 230px;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+
+footer {
+  padding: 20px;
+  color: #333;
+  margin-top: 10px;
+  text-align: center;
+}
+
+footer > * {
+  margin-top: 20px;
+}
+
+.social p {
+  margin-left: 30px;
+}
+
+.social p a {
+  padding: 10px
+}
+
+.social p:first-child {
+  margin-left: 0;
+}
+
+@media (min-width:767px) {
+  .card {
+    max-width: 20rem;
+  }
+
+  .m-4 {
+    margin: 0.8rem !important;
+  }
 }
