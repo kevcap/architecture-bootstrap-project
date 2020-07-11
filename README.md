@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Allan-Logo" title="#teste" src="img/al.png" width="250px" />
+    <img alt="Allan-Logo" title="#teste" src="img/logo.png" width="250px" />
 </h1>
 <h3 align="center">Architecture web page</h3>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
-  <img alt="Project Screenshot" src=".github/project.png" width="100%">
+  <img alt="Project Screenshot" src=".github/screenshot.png" width="100%">
   </a>
 </p>
 
