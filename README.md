@@ -31,7 +31,7 @@
 </p>
 
 ## 🧐 About <a name = "about"></a>
-<h3 align="center"> This is a very simple project, built with bootstarp 4 </h3>
+<h3 align="center"> This is a basic, but elegant archtectural website project, built with bootstarp 4 </h3>
 
 
 ## 🔧 Built with<a name = "built_using"></a>
