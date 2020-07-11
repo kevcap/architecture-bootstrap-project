@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Aircnc" title="#teste" src=".github/logo.png" width="250px" />
+    <img alt="Allan-Logo" title="#teste" src="img/al.png" width="250px" />
 </h1>
 <h3 align="center">Architecture web page</h3>
 
